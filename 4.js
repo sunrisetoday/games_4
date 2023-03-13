@@ -1,5 +1,5 @@
 var me=2;
-
+// web edit 13/3/23
 var myVar = setInterval(myTimer, 5000);  // 5 seconds
 var lntotaltime=0; // keep track of total time so we can stop pinging the server if their not playing
 var whosturn="player1";
